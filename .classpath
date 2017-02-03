@@ -18,5 +18,6 @@
 			<attribute name="maven.scope" value="runtime"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/hlreis/Documents/desenvolvimento/eclipse-workspace/Jars/jstl-connector-4.0.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
